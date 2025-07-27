@@ -12,7 +12,7 @@ Este projeto foi desenvolvido como parte das atividades da **monitoria de Algori
 - Arrays dinâmicos;
 - Alocação de memória;
 - Manipulação de arquivos binários;
-- Organização modular de código.
+- Organização modular por cabeçalhos.
 
 ## Objetivos 🎯
 - Praticar `structs` e `ponteiros`;
